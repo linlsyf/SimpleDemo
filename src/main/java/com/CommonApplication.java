@@ -1,6 +1,5 @@
 package com;
 
-import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.embedded.tomcat.TomcatConnectorCustomizer;
@@ -16,8 +15,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 //@EnableDiscoveryClient
 //@EnableAdminServer
 //@RibbonClient(value = "eureka-common")
-@MapperScan("com.common.mapper")
-@EnableScheduling
 public class CommonApplication {
 
      public static void main(String[] args) {
