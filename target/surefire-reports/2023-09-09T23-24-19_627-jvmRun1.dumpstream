@@ -1,0 +1,75 @@
+# Created at 2023-09-09T23:25:30.014
+Unexpected IOException with stream: 2023-09-09 23:25:30.011  INFO 7260 --- [lerThreadPool-1] com.task.SchedulingRunnable              : 定时任务开始执行 - bean：deafultTask，方法：taskMap，参数：[{method=search, serviceName=blogService}]
+
+
+# Created at 2023-09-09T23:25:30.015
+Unexpected IOException with stream: 这是有参示例任务：search
+
+
+# Created at 2023-09-09T23:25:30.017
+Unexpected IOException with stream: 这是有参示例任务：blogService
+
+
+# Created at 2023-09-09T23:25:30.088
+Unexpected IOException with stream: exe sql=SELECT * , (select  count(1)  from blog  where status is null or  status=0) as pagecount   FROM blog
+        WHERE 1=1
+        
+                 
+   order  by sn desc,createtime asc
+
+
+
+# Created at 2023-09-09T23:25:30.097
+Unexpected IOException with stream: 2023-09-09 23:25:30.096  INFO 7260 --- [lerThreadPool-1] com.task.SchedulingRunnable              : 定时任务执行结束 - bean：deafultTask，方法：taskMap，参数：[{method=search, serviceName=blogService}]，耗时：82 毫秒
+
+
+# Created at 2023-09-09T23:25:40.004
+Unexpected IOException with stream: 2023-09-09 23:25:40.004  INFO 7260 --- [lerThreadPool-1] com.task.SchedulingRunnable              : 定时任务开始执行 - bean：deafultTask，方法：taskMap，参数：[{method=search, serviceName=blogService}]
+
+
+# Created at 2023-09-09T23:25:40.004
+Unexpected IOException with stream: 这是有参示例任务：search
+
+
+# Created at 2023-09-09T23:25:40.005
+Unexpected IOException with stream: 这是有参示例任务：blogService
+
+
+# Created at 2023-09-09T23:25:40.046
+Unexpected IOException with stream: exe sql=SELECT * , (select  count(1)  from blog  where status is null or  status=0) as pagecount   FROM blog
+        WHERE 1=1
+        
+                 
+   order  by sn desc,createtime asc
+
+
+
+# Created at 2023-09-09T23:25:40.059
+Unexpected IOException with stream: 2023-09-09 23:25:40.058  INFO 7260 --- [lerThreadPool-1] com.task.SchedulingRunnable              : 定时任务执行结束 - bean：deafultTask，方法：taskMap，参数：[{method=search, serviceName=blogService}]，耗时：54 毫秒
+
+
+# Created at 2023-09-09T23:25:50.004
+Unexpected IOException with stream: 2023-09-09 23:25:50.003  INFO 7260 --- [lerThreadPool-1] com.task.SchedulingRunnable              : 定时任务开始执行 - bean：deafultTask，方法：taskMap，参数：[{method=search, serviceName=blogService}]
+
+
+# Created at 2023-09-09T23:25:50.005
+Unexpected IOException with stream: 这是有参示例任务：search
+
+
+# Created at 2023-09-09T23:25:50.006
+Unexpected IOException with stream: 这是有参示例任务：blogService
+
+
+# Created at 2023-09-09T23:25:50.047
+Unexpected IOException with stream: exe sql=SELECT * , (select  count(1)  from blog  where status is null or  status=0) as pagecount   FROM blog
+        WHERE 1=1
+        
+                 
+   order  by sn desc,createtime asc
+
+
+
+# Created at 2023-09-09T23:25:50.055
+Unexpected IOException with stream: 2023-09-09 23:25:50.054  INFO 7260 --- [lerThreadPool-1] com.task.SchedulingRunnable              : 定时任务执行结束 - bean：deafultTask，方法：taskMap，参数：[{method=search, serviceName=blogService}]，耗时：50 毫秒
+
+

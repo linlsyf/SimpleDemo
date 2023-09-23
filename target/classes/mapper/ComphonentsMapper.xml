@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.common.mapper.ComponentsMapper">
+    <resultMap id="BaseResultMap" type="com.common.SysComponents">
+        <result column="ID" property="id" />
+        <result column="TITLE" property="title" />
+        <result column="CONTENT" property="content" />
+
+    </resultMap>
+
+    <select id="get" resultMap="BaseResultMap" parameterType="java.lang.String" >
+        select  ID,TITLE,CONTENT
+               from sys_components
+          WHERE  ID=#{id}
+    </select>
+    <select id="search" resultMap="BaseResultMap" parameterType="java.lang.String" >
+        select  ID,TITLE,
+        CONTENT
+               from sys_components
+          WHERE  ID=#{id}
+    </select>
+    <select id="searchByTitle" resultMap="BaseResultMap" parameterType="com.common.SysComponents">
+        select  ID,TITLE,CONTENT
+               from sys_components
+          WHERE  title=#{title}
+    </select>
+    <insert id="save" parameterType="com.common.SysComponents">
+        insert into sys_components(id,title, content, createtime)
+        values(#{id}, #{title}, #{content,typeHandler=org.apache.ibatis.type.BlobTypeHandler}, #{createtime})
+    </insert>
+    <insert id="update" parameterType="com.common.SysComponents">
+      UPDATE sys_components SET
+         title=#{title},
+         content=#{content,typeHandler=org.apache.ibatis.type.BlobTypeHandler}
+        WHERE  ID=#{id}
+
+
+        </insert>
+
+</mapper>
