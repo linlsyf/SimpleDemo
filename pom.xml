@@ -81,22 +81,32 @@
         <skipTests>true</skipTests>
     </properties>
 
+<packaging>jar</packaging>
 
-    <build>
-        <finalName>common</finalName>
+	<!-- 打包插件 -->
+	<build>
+		<finalName>common</finalName>
 
-
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-                <configuration>
-                    <!--配置为执行-->
-                    <outputDirectory>${target}</outputDirectory>
-                </configuration>
-            </plugin>
-        </plugins>
-
-    </build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<executable>true</executable>
+					<layout>JAR</layout>
+				</configuration>
+				<executions>
+					<execution>
+						<goals>
+							<goal>repackage</goal>
+						</goals>
+						<configuration>
+							<attach>false</attach>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
 
 </project>
