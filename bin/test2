@@ -1,0 +1,30 @@
+cd C:\Users\Administrator\.jenkins\workspace\pipline
+docker stop zx-order || true
+docker rm zx-order || true
+docker rmi zx-order || true
+docker build -t zx-order .
+docker run -d -p 8888:8888 --name zx-order zx-order:latest
+
+
+
+
+
+cd C:\Users\Administrator\.jenkins\workspace\pipline
+
+//先实现安装好jdk11 再build
+
+     docker build -t hello:hello C:/Users/Administrator/.jenkins/workspace/pipline
+
+//先实现安装好jdk11 再build
+
+
+
+docker run -itd  -p 1021:1021 --name hello hello:hello
+
+
+
+cd “C:\Program Files\Docker\Docker”
+
+
+Use Docker Compose V2勾上即可，重启Docker
+
