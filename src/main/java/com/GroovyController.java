@@ -8,7 +8,7 @@ import java.util.Map;
 @RestController
 public class GroovyController {
 
-    @GetMapping("/hello")
+    @GetMapping("/testhello")
     public String exe() throws Exception {
 
         return "this is hello Jenkins";
