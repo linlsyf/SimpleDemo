@@ -1,3 +1,5 @@
+
+
 package com;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,7 +17,7 @@ import java.util.Map;
     @GetMapping("/hello")
     public String index() {
 //        java.util.List<ServiceInstance> instances = client.getInstances("hello-service");
-        return "jenkin test prohello3";
+        return "jenkin test prohello33";
     }
 //    @RequestMapping(value = "/hello", method = RequestMethod.GET)
 //    public String index() {
@@ -25,5 +27,14 @@ import java.util.Map;
 
 
 
+//    @GetMapping("/hello")
+//        @HystrixCommand(fallbackMethod = "queryByIdFallback")
+//        public String hello() {
+//
+//            return "product-1";
+//        }
+
+
 
     }
+
