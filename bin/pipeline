@@ -7,7 +7,7 @@ pipeline {
     }
 
     stages {
-        stage('Build') {
+        stage('下载编译') {
             steps {
                 // Get some code from a GitHub repository
                 git 'https://github.com/linlsyf/SimpleDemo.git'
@@ -28,5 +28,31 @@ pipeline {
                 }
             }
         }
+
+         stage('docker打包') {
+               steps {
+
+            bat " cd C:/Users/Administrator/.jenkins/workspace/pipline@2"
+              bat "  docker build -t hello:hello C:/Users/Administrator/.jenkins/workspace/pipline@2"
+
+
+
+              }
+
+
+            }
+
+         stage('运行') {
+               steps {
+            bat " cd C:/Users/Administrator/.jenkins/workspace/pipline@2"
+
+
+                  bat " docker run -itd  -p 1021:1021 --name hello hello:hello"
+
+
+              }
+
+
+            }
     }
 }

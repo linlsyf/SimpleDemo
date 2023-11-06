@@ -5,1018 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fcab0241-f15e-4d84-9dbe-8ae1f063225f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../CloudProduct1/src/main/resources/linlsyf.pfx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CloudServer/src/main/resources/linlsyf.pfx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/demo/AITest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/CloudCustom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/CloudCustom.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/src/main/java/demo/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/src/main/java/demo/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/EasyCloudClient-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/EasyCloudClient-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/DemoApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/IpConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/RestTemplateConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/RouterConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/TimeHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/event/LongEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/event/LongEventExe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/event/LongEventFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/event/LongEventHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/classes/demo/event/LongEventProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/ApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/ApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/TEST-ApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/TEST-ApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudCustom/target/test-classes/demo/SpockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/.idea/libraries/Maven__lsyf_common_common_1_0_SNAPSHOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/CloudProduct1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/CloudProduct1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/.css/coverage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/.img/arrowDown.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/.img/arrowUp.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/.classes/LongEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/.classes/LongEventExe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/.classes/LongEventFactory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/.classes/LongEventHandler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/.classes/LongEventProducer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo.event/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/.classes/DemoApplication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/.classes/IpConfiguration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/.classes/RouterConfig.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/.classes/TimeHandler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/demo/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/spock/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/src/main/java/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/src/main/java/demo/DemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/src/main/java/demo/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/src/main/java/demo/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/classes/demo/DemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/classes/demo/DemoApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/classes/demo/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/classes/demo/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/ApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/ApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/TEST-ApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/TEST-ApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct1/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/.css/coverage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/.img/arrowDown.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/.img/arrowUp.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/.classes/LongEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/.classes/LongEventExe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/.classes/LongEventFactory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/.classes/LongEventHandler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/.classes/LongEventProducer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo.event/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/.classes/DemoApplication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/.classes/IpConfiguration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/.classes/RouterConfig.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/.classes/TimeHandler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/demo/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/spock/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudProduct3/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudProduct3/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/.idea/CloudServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudServer/.idea/CloudServer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudServer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/bin/start.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudServer/bin/start.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudServer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/.css/coverage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/.img/arrowDown.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/.img/arrowUp.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/.classes/LongEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/.classes/LongEventExe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/.classes/LongEventFactory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/.classes/LongEventHandler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/.classes/LongEventProducer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo.event/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/.classes/DemoApplication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/.classes/IpConfiguration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/.classes/RouterConfig.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/.classes/TimeHandler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/demo/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/spock/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CloudServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudServer/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/EasyService.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/artifacts/base_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_alibaba_druid_1_2_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_alibaba_fastjson_1_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_15.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__freemarker_freemarker_2_3_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_24.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_2_0_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_6_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_8_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/base.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/JdbcService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/auth/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/base/Base.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/base/BaseBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/base/BaseBussinessDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/base/BaseDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/base/LogHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/base/sql/errorlogcreate.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/cache/ICache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/cache/MemoryCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/cache/SerializeUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/config/LoginConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/ds/CloumnBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/ds/JdbcEng.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/ds/JdbcTemplateWrapping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/ds/TestDataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/jpush/JpushManger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/log4j/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/log4j/debug/Debugger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/publish/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/quartz/MyJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/quartz/QuartzManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/quartz/TestJob.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/service/FileDownService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/service/TokenCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/service/Ztoken.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/MBYHandlerExceptionResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/filter/CORSFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/interceptors/PermissionInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/interceptors/SystemInterceptor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/params/MbyArgumentResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/params/MbyParam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/params/StringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/response/MBYResponseViewModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/response/MBYViewModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/response/RawJsonData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/response/ResponseMsg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/spring/response/ResultRespnseUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/ConfigUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/FileStoreUtis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/FileUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/MD5Tools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/ServiceUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/TimeAreaUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/TimeUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/TreadPoolUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/excel/ExcelRowModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/excel/NormTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/excel/PrintReportUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/excel/ReportData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/template/FtlManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/template/Ftutils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/com/utils/template/TemplateUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/common/GroovyUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/java/utils/ZStringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/base-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/DemoApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/JdbcService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/auth/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/base/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/base/BaseBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/base/BaseBussinessDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/base/BaseDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/base/LogHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/cache/ICache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/cache/MemoryCache$CacheEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/cache/MemoryCache$TimeoutTimerThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/cache/MemoryCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/cache/SerializeUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/config/LoginConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/ds/CloumnBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/ds/JdbcEng.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/ds/JdbcTemplateWrapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/ds/TestDataSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/publish/DemoApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/service/TokenCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/spring/response/MBYResponseViewModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/spring/response/MBYViewModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/spring/response/ResponseMsg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/com/spring/response/ResultRespnseUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/common/GroovyUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/jpush/JpushManger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/log4j/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/log4j/debug/Debugger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/quartz/MyJob.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/quartz/QuartzManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/quartz/TestJob.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/service/FileDownService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/service/Ztoken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/spring/MBYHandlerExceptionResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/spring/filter/CORSFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/spring/interceptors/PermissionInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/spring/interceptors/SystemInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/spring/params/MbyArgumentResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/spring/params/MbyParam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/spring/params/StringUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/spring/response/RawJsonData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/ConfigUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/FileStoreUtis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/FileUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/MD5Tools.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/ServiceUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/TimeAreaUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/TimeUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/TreadPoolUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/ZStringUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/excel/ExcelRowModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/excel/NormTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/excel/PrintReportUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/excel/ReportData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/template/FtlManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/template/Ftutils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/classes/utils/template/TemplateUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/base/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/bin/publish.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/bin/publisher - 副本.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/bin/publisher.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/bin/publisher - 副本.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/bin/publisher.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/GroovyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/MyConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/PublishApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/publish/groservice/dao/ExamCon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/publish/groservice/dao/GroDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/publish/groservice/dao/bean/BlogBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/publish/groservice/dao/bean/ExamBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/publish/groservice/dao/bean/FavourBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/java/com/publish/groservice/service/GroService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/linlsyf.pfx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/sql/Login.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/sql/SearchComponents.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/sql/UserSearch.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/ServiceBg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/aboutus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/dotted.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/exam_pre.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/fire_ad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/fire_link_china.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/fire_link_for.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/fire_link_for.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/fire_link_go.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/fire_link_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/fire_link_source.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/fire_school.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/fire_school.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/fire_video_default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/firelimit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/forhead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/head_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/hg_exam_com.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/hglog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/hglogin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/index_log_forest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/index_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/index_logo_forest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/index_logo_forest_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/index_logo_forest_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/index_section_fire.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/jt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/lbx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/libbanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/linkbanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/loginbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/map.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/navi_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/playvideo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/police.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/progress.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/selftaught.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/web_logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/2052.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAg2e_T7AUo_4nb9wcw9AM43gI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAg2vWS7AUo_OzwowEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAg3c-q7AUo7NL3jwMwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAg5f6S7AUomIqmgQQw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAg5tPq7AUo34eD0gUwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAggveS7AUoz7inVTD0AzjeAg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAglY6T7AUo-f_R9QUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgmLyO7AUo-tnbdjD0AzisAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgmLyO7AUogK3uvAEw9AM4-gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgmLyO7AUogNbzAjD0AzjAAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgmLyO7AUou_eQ1AMw9AM49wI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgquqW7AUolJ7EkwMw9AM43gI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgr-_S7AUo1OWWwAEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgr-_S7AUohbqqkwUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgr-_S7AUojo-h6QIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgr-_S7AUom5HA4wQw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgr-_S7AUou8_PzAEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgrtST7AUo_JuTkAQw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgs9rq7AUoiLfb2AMwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgsf_S7AUo5s2evQUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgsf_S7AUo6vHD0gIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgsf_S7AUo_JzrmAIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgsf_S7AUolOa0lAYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgtsjq7AUoqs6KzgcwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgttfq7AUolMfxxAUwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgw72Y7AUogMywiAUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgwb2Y7AUo0Ii4bDD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgwb2Y7AUo6IXn2wcw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgwb2Y7AUosIX93QEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgwb2Y7AUowOzNETD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgxL2Y7AUogIXYygUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgxL2Y7AUog_DQczD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgxr2Y7AUo0N-QlQIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgxr2Y7AUo1fHf2AUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgxr2Y7AUo6NKSnQIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgxr2Y7AUolLfivwIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgxr2Y7AUov9iN8wYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgyIWT7AUo7IyhkQYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgyIWT7AUo7KnoxAMw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgyIWT7AUoyNmF6gcw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgyYWT7AUo2JTm8wcw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgyYWT7AUogPTwJjD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgyb2Y7AUo-sawhgYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABACGAAgzdKT7AUo0v3s-QUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABAEGAAg48Kg7AUoiMrwvAYwsAk4sAk!60x60.png.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ABUIABAEGAAgw72Y7AUogPz_6AIw9AM43gI!300x300.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/bak/gallery_index_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/bak/gallery_index_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/bak/gallery_index_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/bannerAnimation.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/bookingSubmitPanel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/browserCheck.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/datepicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/dot.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/fai.all.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/faiFloatPanel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/faiFloatPanel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/faiFloatPanel_bindEvent.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/fkModule.min(1).css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/fkModule.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/fkNav.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/fkTheme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/fontsIco.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/gallery_index_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/gallery_index_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/gallery_index_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/hawkEye.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/hm(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/hm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/imageEffect.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/invite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/jquery-core.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/jquery-mousewheel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/jquery-parallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/jquery-ui-core.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/jzUtils.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/jzcusstyle.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/mcs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/module.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/newSearchBoxStyle.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/pc_nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/photoSlide.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/poll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/polyfill.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/poshytipAndmCustomScrollbar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/s.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/site.min(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/site.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/siteBase2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/svg.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/ty_icon1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/video-js.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/video.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/img/yucheng/video.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/css/main.62ec6f9b.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/js/106.288b8ffd.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/js/36.7db66cc8.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/js/367.6b7e160c.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/js/403.57d317fb.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/js/446.47520873.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/js/556.f097d651.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/js/631.a02a4566.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/js/787.dc0da539.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/js/main.fca3f664.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/js/main.fca3f664.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/media/login.f5522adcc1cf157ff89f.cssbak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/static/media/p_big3.a778df0b4bcad73693e5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/upload/fire-notice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/upload/fire1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/upload/fire3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/upload/fire_video_default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/upload/play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/src/main/resources/static/upload/playvideo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/GroovyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/MyConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/PublishApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/publish/groservice/dao/ExamCon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/publish/groservice/dao/GroDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/publish/groservice/dao/bean/BlogBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/publish/groservice/dao/bean/ExamBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/publish/groservice/dao/bean/FavourBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/com/publish/groservice/service/GroService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/linlsyf.pfx" beforeDir="false" afterPath="$PROJECT_DIR$/../CloudCustom/src/main/resources/linlsyf.pfx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/sql/Login.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/sql/SearchComponents.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/sql/UserSearch.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/ServiceBg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/aboutus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/dotted.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/exam_pre.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/fire_ad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/fire_link_china.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/fire_link_for.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/fire_link_for.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/fire_link_go.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/fire_link_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/fire_link_source.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/fire_school.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/fire_school.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/fire_video_default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/firelimit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/forhead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/head_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/hg_exam_com.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/hglog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/hglogin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/index_log_forest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/index_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/index_logo_forest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/index_logo_forest_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/index_logo_forest_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/index_section_fire.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/jt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/lbx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/libbanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/linkbanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/loginbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/map.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/navi_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/playvideo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/police.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/progress.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/selftaught.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/web_logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/2052.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAg2e_T7AUo_4nb9wcw9AM43gI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAg2vWS7AUo_OzwowEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAg3c-q7AUo7NL3jwMwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAg5f6S7AUomIqmgQQw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAg5tPq7AUo34eD0gUwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAggveS7AUoz7inVTD0AzjeAg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAglY6T7AUo-f_R9QUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgmLyO7AUo-tnbdjD0AzisAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgmLyO7AUogK3uvAEw9AM4-gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgmLyO7AUogNbzAjD0AzjAAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgmLyO7AUou_eQ1AMw9AM49wI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgquqW7AUolJ7EkwMw9AM43gI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgr-_S7AUo1OWWwAEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgr-_S7AUohbqqkwUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgr-_S7AUojo-h6QIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgr-_S7AUom5HA4wQw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgr-_S7AUou8_PzAEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgrtST7AUo_JuTkAQw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgs9rq7AUoiLfb2AMwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgsf_S7AUo5s2evQUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgsf_S7AUo6vHD0gIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgsf_S7AUo_JzrmAIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgsf_S7AUolOa0lAYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgtsjq7AUoqs6KzgcwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgttfq7AUolMfxxAUwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgw72Y7AUogMywiAUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgwb2Y7AUo0Ii4bDD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgwb2Y7AUo6IXn2wcw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgwb2Y7AUosIX93QEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgwb2Y7AUowOzNETD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgxL2Y7AUogIXYygUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgxL2Y7AUog_DQczD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgxr2Y7AUo0N-QlQIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgxr2Y7AUo1fHf2AUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgxr2Y7AUo6NKSnQIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgxr2Y7AUolLfivwIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgxr2Y7AUov9iN8wYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgyIWT7AUo7IyhkQYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgyIWT7AUo7KnoxAMw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgyIWT7AUoyNmF6gcw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgyYWT7AUo2JTm8wcw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgyYWT7AUogPTwJjD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgyb2Y7AUo-sawhgYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABACGAAgzdKT7AUo0v3s-QUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABAEGAAg48Kg7AUoiMrwvAYwsAk4sAk!60x60.png.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ABUIABAEGAAgw72Y7AUogPz_6AIw9AM43gI!300x300.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/bak/gallery_index_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/bak/gallery_index_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/bak/gallery_index_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/bannerAnimation.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/bookingSubmitPanel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/browserCheck.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/datepicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/dot.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/fai.all.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/faiFloatPanel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/faiFloatPanel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/faiFloatPanel_bindEvent.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/fkModule.min(1).css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/fkModule.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/fkNav.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/fkTheme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/fontsIco.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/gallery_index_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/gallery_index_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/gallery_index_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/hawkEye.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/hm(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/hm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/imageEffect.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/invite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/jquery-core.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/jquery-mousewheel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/jquery-parallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/jquery-ui-core.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/jzUtils.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/jzcusstyle.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/mcs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/module.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/newSearchBoxStyle.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/pc_nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/photoSlide.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/poll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/polyfill.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/poshytipAndmCustomScrollbar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/s.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/site.min(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/site.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/siteBase2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/svg.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/ty_icon1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/video-js.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/video.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/img/yucheng/video.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/css/main.62ec6f9b.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/js/106.288b8ffd.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/js/36.7db66cc8.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/js/367.6b7e160c.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/js/403.57d317fb.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/js/446.47520873.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/js/556.f097d651.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/js/631.a02a4566.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/js/787.dc0da539.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/js/main.fca3f664.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/js/main.fca3f664.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/media/login.f5522adcc1cf157ff89f.cssbak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/static/media/p_big3.a778df0b4bcad73693e5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/upload/fire-notice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/upload/fire1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/upload/fire3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/upload/fire_video_default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/upload/play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/common/target/classes/static/upload/playvideo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/gateway.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/src/main/java/com/human/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/target/classes/META-INF/gateway.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/target/classes/com/human/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/target/gateway-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/gateway/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/bin/publisher - 副本.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/bin/publisher.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/publish.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/GroovyController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/MyConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/PublishApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/publish/groservice/dao/ExamCon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/publish/groservice/dao/GroDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/publish/groservice/dao/bean/BlogBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/publish/groservice/dao/bean/ExamBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/publish/groservice/dao/bean/FavourBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/java/com/publish/groservice/service/GroService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/linlsyf.pfx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/sql/Login.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/sql/SearchComponents.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/sql/UserSearch.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/ServiceBg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/aboutus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/dotted.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/exam_pre.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/fire_ad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/fire_link_china.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/fire_link_for.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/fire_link_for.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/fire_link_go.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/fire_link_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/fire_link_source.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/fire_school.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/fire_school.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/fire_video_default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/firelimit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/forhead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/head_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/hg_exam_com.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/hglog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/hglogin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/index_log_forest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/index_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/index_logo_forest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/index_logo_forest_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/index_logo_forest_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/index_section_fire.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/jt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/lbx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/libbanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/linkbanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/loginbg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/map.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/navi_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/playvideo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/police.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/progress.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/selftaught.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/web_logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/2052.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAg2e_T7AUo_4nb9wcw9AM43gI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAg2vWS7AUo_OzwowEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAg3c-q7AUo7NL3jwMwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAg5f6S7AUomIqmgQQw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAg5tPq7AUo34eD0gUwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAggveS7AUoz7inVTD0AzjeAg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAglY6T7AUo-f_R9QUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgmLyO7AUo-tnbdjD0AzisAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgmLyO7AUogK3uvAEw9AM4-gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgmLyO7AUogNbzAjD0AzjAAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgmLyO7AUou_eQ1AMw9AM49wI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgquqW7AUolJ7EkwMw9AM43gI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgr-_S7AUo1OWWwAEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgr-_S7AUohbqqkwUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgr-_S7AUojo-h6QIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgr-_S7AUom5HA4wQw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgr-_S7AUou8_PzAEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgrtST7AUo_JuTkAQw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgs9rq7AUoiLfb2AMwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgsf_S7AUo5s2evQUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgsf_S7AUo6vHD0gIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgsf_S7AUo_JzrmAIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgsf_S7AUolOa0lAYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgtsjq7AUoqs6KzgcwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgttfq7AUolMfxxAUwigU49AM!160x160.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgw72Y7AUogMywiAUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgwb2Y7AUo0Ii4bDD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgwb2Y7AUo6IXn2wcw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgwb2Y7AUosIX93QEw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgwb2Y7AUowOzNETD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgxL2Y7AUogIXYygUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgxL2Y7AUog_DQczD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgxr2Y7AUo0N-QlQIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgxr2Y7AUo1fHf2AUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgxr2Y7AUo6NKSnQIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgxr2Y7AUolLfivwIw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgxr2Y7AUov9iN8wYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgyIWT7AUo7IyhkQYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgyIWT7AUo7KnoxAMw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgyIWT7AUoyNmF6gcw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgyYWT7AUo2JTm8wcw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgyYWT7AUogPTwJjD0AzjeAg!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgyb2Y7AUo-sawhgYw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABACGAAgzdKT7AUo0v3s-QUw9AM43gI!300x300.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABAEGAAg48Kg7AUoiMrwvAYwsAk4sAk!60x60.png.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ABUIABAEGAAgw72Y7AUogPz_6AIw9AM43gI!300x300.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/bak/gallery_index_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/bak/gallery_index_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/bak/gallery_index_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/bannerAnimation.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/bookingSubmitPanel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/browserCheck.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/close.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/datepicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/dot.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/fai.all.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/faiFloatPanel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/faiFloatPanel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/faiFloatPanel_bindEvent.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/fkModule.min(1).css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/fkModule.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/fkNav.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/fkTheme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/fontsIco.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/gallery_index_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/gallery_index_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/gallery_index_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/hawkEye.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/hm(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/hm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/imageEffect.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/invite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/jquery-core.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/jquery-mousewheel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/jquery-parallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/jquery-ui-core.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/jzUtils.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/jzcusstyle.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/mcs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/module.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/newSearchBoxStyle.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/pc_nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/photoSlide.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/poll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/polyfill.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/poshytipAndmCustomScrollbar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/s.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/site.min(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/site.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/siteBase2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/svg.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/ty_icon1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/video-js.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/video.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/img/yucheng/video.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/css/main.62ec6f9b.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/js/106.288b8ffd.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/js/36.7db66cc8.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/js/367.6b7e160c.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/js/403.57d317fb.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/js/446.47520873.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/js/556.f097d651.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/js/631.a02a4566.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/js/787.dc0da539.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/js/main.fca3f664.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/js/main.fca3f664.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/media/login.f5522adcc1cf157ff89f.cssbak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/static/media/p_big3.a778df0b4bcad73693e5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/upload/fire-notice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/upload/fire1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/upload/fire3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/upload/fire_video_default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/upload/play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/src/main/resources/static/upload/playvideo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyService/publish/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/.css/coverage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/.img/arrowDown.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/.img/arrowUp.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/.classes/LongEvent.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/.classes/LongEventExe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/.classes/LongEventFactory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/.classes/LongEventHandler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/.classes/LongEventProducer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo.event/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/.classes/DemoApplication.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/.classes/IpConfiguration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/.classes/RouterConfig.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/.classes/TimeHandler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/demo/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/index_SORT_BY_BLOCK.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/index_SORT_BY_BLOCK_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/index_SORT_BY_CLASS.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/index_SORT_BY_CLASS_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/index_SORT_BY_LINE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/index_SORT_BY_LINE_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/index_SORT_BY_METHOD.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/index_SORT_BY_METHOD_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spock/index_SORT_BY_NAME_DESC.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_core_1_8_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_1_12_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_client_2_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_starter_client_2_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__info_picocli_picocli_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_2_14_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_antlr_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_junit_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_ant_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_cli_commons_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_cli_picocli_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_console_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_datetime_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_docgenerator_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_groovydoc_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_groovysh_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_jmx_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_jsr223_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_servlet_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_swing_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_test_junit5_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_testng_2_5_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jolokia_jolokia_core_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudProduct1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CloudProduct1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pipeline" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pipeline" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/test2" beforeDir="false" afterPath="$PROJECT_DIR$/bin/test2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1034,10 +87,17 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2EeGqvItc8hsAErGe9IIUWx0Eip" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1049,10 +109,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "last_opened_file_path": "C:/Users/Administrator/.ssh/id_rsa.pub",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings"
+    "settings.editor.selected.configurable": "vcs.Subversion.SSH",
+    "zielu.gittoolbox.prj.config.selected.tab.id": "zielu.gittoolbox.config.prj.repositories"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -1201,7 +263,9 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshPrivateKeyPath" value="C:\Users\Administrator\.ssh\id_rsa.pub" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1248,6 +312,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

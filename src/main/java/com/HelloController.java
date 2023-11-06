@@ -12,10 +12,10 @@ import java.util.Map;
     @Autowired
 //    public DiscoveryClient client;
 //    @RequestMapping(value = "/hello", method = RequestMethod.GET)
-    @GetMapping("/prohello")
+    @GetMapping("/hello")
     public String index() {
 //        java.util.List<ServiceInstance> instances = client.getInstances("hello-service");
-        return "jenkin test prohello";
+        return "jenkin test prohello3";
     }
 //    @RequestMapping(value = "/hello", method = RequestMethod.GET)
 //    public String index() {
@@ -23,14 +23,6 @@ import java.util.Map;
 //        return "Hello World eureka-product1";
 //    }
 
-
-
-//    @GetMapping("/hello")
-//        @HystrixCommand(fallbackMethod = "queryByIdFallback")
-//        public String hello() {
-//
-//            return "product-1";
-//        }
 
 
 

@@ -153,22 +153,31 @@
 
 
 	</dependencies>
+	<packaging>jar</packaging>
 
+	<!-- 打包插件 -->
 	<build>
-		<finalName>product-1</finalName>
+		<finalName>common</finalName>
 
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<!--配置为执行-->
-					<outputDirectory>${target}</outputDirectory>
+					<executable>true</executable>
+					<layout>JAR</layout>
 				</configuration>
+				<executions>
+					<execution>
+						<goals>
+							<goal>repackage</goal>
+						</goals>
+						<configuration>
+							<attach>false</attach>
+						</configuration>
+					</execution>
+				</executions>
 			</plugin>
-
-
-
 		</plugins>
 	</build>
 

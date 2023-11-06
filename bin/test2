@@ -6,9 +6,6 @@ docker build -t zx-order .
 docker run -d -p 8888:8888 --name zx-order zx-order:latest
 
 
-
-
-
 cd C:\Users\Administrator\.jenkins\workspace\pipline
 
 //先实现安装好jdk11 再build
@@ -26,5 +23,5 @@ docker run -itd  -p 1021:1021 --name hello hello:hello
 cd “C:\Program Files\Docker\Docker”
 
 
-Use Docker Compose V2勾上即可，重启Docker
-
+勾选  docker ps -a 查看端口是否绑定正确    代码端口  docker内网外网映射
+    docker run -itd -p 1021:1021 --name hello  hello:hello
