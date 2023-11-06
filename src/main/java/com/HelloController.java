@@ -1,5 +1,4 @@
 
-
 package com;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,7 +16,7 @@ import java.util.Map;
     @GetMapping("/hello")
     public String index() {
 //        java.util.List<ServiceInstance> instances = client.getInstances("hello-service");
-        return "main jenkin test prohello33";
+        return "jenkin test prohello";
     }
 //    @RequestMapping(value = "/hello", method = RequestMethod.GET)
 //    public String index() {
@@ -37,5 +36,4 @@ import java.util.Map;
 
 
     }
-
 
