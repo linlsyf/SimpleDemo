@@ -10,7 +10,7 @@ public class TestData {
 
     int testnumtest=1;
     public static void main(String args[]) throws Exception {
-        int testnum=3;
+        int testnum=4;
 
 
         if (testnum==2){
