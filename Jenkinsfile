@@ -8,8 +8,9 @@ pipeline {
 
     stages {
         stage('下载编译') {
+             helloword()
             steps {
-                 helloword()
+                
                 // Get some code from a GitHub repository
                 git 'https://github.com/linlsyf/SimpleDemo.git'
 
