@@ -11,7 +11,7 @@ public class GroovyController {
     @GetMapping("/testhello")
     public String exe() throws Exception {
 
-        return "this is hello Jenkins";
+        return "this is hello Jenkins hello";
     }
 
 }
