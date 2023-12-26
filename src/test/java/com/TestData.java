@@ -13,7 +13,7 @@ public class TestData {
         int testnum=1;
 
 
-        if (testnum==1){
+        if (testnum==2){
             System.out.println("========");
         }
         if (testnum==1){
