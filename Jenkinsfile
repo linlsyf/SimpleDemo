@@ -8,7 +8,9 @@ pipeline {
 
     stages {
         stage('下载编译') {
+             steps {
              helloword()
+             }
             steps {
                 
                 // Get some code from a GitHub repository
