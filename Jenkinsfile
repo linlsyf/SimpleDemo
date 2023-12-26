@@ -61,5 +61,7 @@ pipeline {
     }
 }
 def  helloword(){
-  bat "mvn clean"
+  //bat "mvn clean"
+      println("hello word  1111")
+
 }
