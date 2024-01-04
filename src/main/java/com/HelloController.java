@@ -10,7 +10,7 @@ import java.util.Map;
 
 @RestController
  public class HelloController {
-
+//test merge123a
     @Autowired
 //    public DiscoveryClient client;
 //    @RequestMapping(value = "/hello", method = RequestMethod.GET)
